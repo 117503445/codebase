@@ -1,0 +1,1 @@
+requests.get(url, params=params, allow_redirects=False)

@@ -112,3 +112,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+.vscode/
+python/mutli-thread-down/result.json
+python/mutli-thread-down/result.pkl
+python/mutli-thread-down/urls.txt
+.gitignore
